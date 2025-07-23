@@ -1,3 +1,7 @@
+body {
+  padding-top: 80px;
+}
+
 .navbar-dropdown {
   left: 0;
   padding: 0;
